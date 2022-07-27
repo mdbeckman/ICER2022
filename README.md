@@ -15,6 +15,7 @@ Shared interests between statistics and computer science education researchers h
   - [Poster (PDF)](docs/Beckman-ICER-2022-CAUSE-Poster-36x48.pdf)
   - [Lighting Talk Slide (PDF)]()
 
+### Citation
 
 Matthew D. Beckman and Laura Le. 2022. Connecting and supporting data science education researchers through the CAUSE Organization. In *ICER ’22: ACM Conference on International Computing Education Research, August 07–11, 2022, Lugano, Switzerland.* ACM, New York, NY, USA, 1 page.
 
@@ -32,6 +33,8 @@ With the growing popularity of introductory data science courses, there is a nee
 
   - [Abstract (PDF)](docs/ICER-2022-DS-Assessment-Abstract.pdf)
   - [Lighting Talk Slide (PDF)]()
+
+### Citation
 
 Matthew D. Beckman, Mine \c{C}etinkaya-Rundel, Mine Dogucu, Evan Dragich, Chelsey Legacy, Maria Tackett, and Andrew Zeiffler. 2022. Piloting a new assessment tool for data science education researchers. In *ICER ’22: ACM Conference on International Computing Education Research, August 07–11, 2022, Lugano, Switzerland.* ACM, New York, NY, USA.
 
