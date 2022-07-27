@@ -14,7 +14,8 @@ Shared interests between statistics and computer science education researchers h
   - [Abstract (PDF)](docs/ICER-2022-CAUSE-Research-Poster-Abstract.pdf)
   - [Poster (PDF)](docs/Beckman-ICER-2022-CAUSE-Poster-36x48.pdf)
   - [Lighting Talk Slide (PDF)](docs/ICER-2022-CAUSE-Research-LT-slide.pdf)
-  - [www.causeweb.org](https://www.causeweb.org/cause/)
+  - [CAUSE website: www.causeweb.org (link)](https://www.causeweb.org/cause/)
+
 
 ### Citation
 
@@ -33,7 +34,8 @@ With the growing popularity of introductory data science courses, there is a nee
 ### Resource List
 
   - [Abstract (PDF)](docs/ICER-2022-DS-Assessment-Abstract.pdf)
-  - [Lighting Talk Slide (PDF)]()
+  - [Lighting Talk Slide (PDF)](docs/ICER-2022-DS-Assessment-LT-slide.pdf)
+
 
 ### Citation
 
