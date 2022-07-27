@@ -14,7 +14,7 @@ Shared interests between statistics and computer science education researchers h
   - [Abstract (PDF)](docs/ICER-2022-CAUSE-Research-Poster-Abstract.pdf)
   - [Poster (PDF)](docs/Beckman-ICER-2022-CAUSE-Poster-36x48.pdf)
   - [Lighting Talk Slide (PDF)](docs/ICER-2022-CAUSE-Research-LT-slide.pdf)
-  - <www.causeweb.org/>
+  - [www.causeweb.org](https://www.causeweb.org/cause/)
 
 ### Citation
 
