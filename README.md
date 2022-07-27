@@ -1,4 +1,4 @@
-# 2022 Intl Computing Education Research Conference (Lugano, Switzerland)
+# ACM Conference on International Computing Education Research (Lugano, Switzerland)
 
 ## Connecting and supporting data science education researchers through the CAUSE Organization
 
