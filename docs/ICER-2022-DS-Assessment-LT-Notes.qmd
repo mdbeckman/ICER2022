@@ -1,0 +1,52 @@
+---
+title: ""
+format: pdf
+editor: source
+---
+
+## Piloting a new assessment tool for data science education researchers
+
+- Collaborative project with colleagues at Duke, UMN, UC London
+
+
+## Background and context
+
+- Introductory Data Science is both growing and spreading quickly
+- There is a need for quality research assessment tools developed and validated for general use across institutions and programs in order to compare and contrast curriculum interventions, pedagogical innovations, etc.
+
+## Objectives
+
+- This project has set out to develop a research assessment to measure data science reasoning outcomes for IDS students before and after a first course
+
+
+## Method
+
+- statistics and data science education researchers examined syllabi and resources in use by experienced introductory data science instructors 
+- drafted and revised an assessment tool 
+    - 48 candidate items aligned with the core knowledge, skills, and abilities
+    - (almost certainly too many for the final assessment)
+- conducted structured interviews
+    - experienced data science instructors with expertise in statistics education, computer science education, and/or educational measurement. 
+    - interviews invite both **holistic** feedback (e.g., essential topics for a data science assessment) as well as a **detailed critique** of each item and its contribution
+
+\newpage
+
+## Challenges
+
+- challenge identifying core curriculum for IDS 
+- always a challenge to balance where to invest in depth vs breadth for a first course... particularly where there is not yet a consensus curriculum 
+    - everything can feel important
+    - anecdotally, wider variability & very ambitious course objectives from those less experienced teaching IDS courses
+- seeking insight about best practices for language agnostic assessment of algorithmic thinking (i.e., for data preparation / analysis)
+    - e.g., both Python & R are popular tools among data scientists
+        - we're concerned that parallel assessment forms invites some psychometric issues
+        - what to do about other languages in future?!
+        - pseudo-code 
+
+
+## Current state of the project
+
+- we think the draft assessment has fared well in our interviews with experienced IDS instructors--i.e., who have taught an undergraduate IDS course multiple times
+- interested in additional perspective from CS colleagues with experience teaching IDS courses
+- Seeking participants to classroom test
+    - assessment can be made available by request to those interested
