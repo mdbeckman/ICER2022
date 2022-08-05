@@ -1,60 +1,67 @@
 ---
 title: ""
 format: pdf
-editor: visual
+editor: source
 ---
 
-## Connecting and Supporting Data Science Education Researchers through the CAUSE Organization
+## Connecting and Supporting Data Science Education Researchers through the CAUSE Organization (3 min LT)
 
 I'm a statistics education researcher interested in DS Education and Assoc Director for Research with the CAUSE Organization.
 
-## CAUSE: 
+## CAUSE:
 
-- Consortium for the Advancement of Undergraduate Statistics Education
-- Est in 2003
-- US-based org with international reach
-- Mission: Support the advancement of undergraduate statistics and data science education
-- 74 institutional partners; thousands of members 
-- **Broad** scope.  Vibrant community with many active initiatives 
-      - annual conferences (eCOTS & USCOTS), 
-      - student project competitions, 
-      - webinar series, 
-      - professional development
-      - and more
+-   Consortium for the Advancement of Undergraduate Statistics Education
+-   grown fairly large over last 20 years
+-   Mission: Support the advancement of undergraduate statistics and data science education
+-   **CAUSE is a large, active, community with broad scope** & many active initiatives
+    -   annual conferences (eCOTS & USCOTS),
+    -   student project competitions,
+    -   webinar series,
+    -   and more
 
 ## CAUSE **Research**
 
-- A subsidiary of CAUSE 
-- **Mission**: Promote and support the advancement of statistics and data science education research
-    - Connect researchers
-    - Disseminate resources
-    - Advocate for value and impact
-- CAUSE Research doesn't set a research agenda--our goal is to break through barriers and silos to connect researchers and resources from diverse disciplines
-- Here to support new researchers, grad students, experienced researchers, etc
+-   A subsidiary of CAUSE
+-   **Mission**: Promote and support the advancement of statistics and data science education research
+    -   Connect researchers
+    -   Disseminate resources
+    -   Advocate for value and impact
+-   CAUSE Research doesn't set a research agenda--our goal is to break through barriers and silos to connect researchers and resources from diverse disciplines
+-   Here to support new researchers, grad students, experienced researchers, etc
 
 \newpage
 
-## 2021 Reboot
 
-- CAUSE appointed Laura Le and I to join as Assoc Directors for Research
-- Some information gathering with past leadership & advisory board members
-- A big part of the reboot was a CAUSE Research Satellite Symposium accompanying USCOTS 2021
-    - Goal: Build community and identify how CAUSE can better support statistics and data science education research(ers)
-    - 62 current and aspiring researchers from North America, Europe, and Brazil (but had 139 registrations!)
-    - Reviewed and revised mission statement for CAUSE research
 
-- CAUSE Research Initiatives
-    - eCOTS workshop (May 2022) with Iddo Gal (Univ. of Haifa) for pre-tenure faculty doing statistics education research
-    - Ongoing reading group(s) with Megan Mocko (Univ of Florida) and Shu-Min Liao (Amherst College)
-    - Website overhaul--Doug Whitaker (Mount Saint Vincent Univ.) and GRA Susan Lloyd began work this summer
-    - Research mentoring program coming soon
+## CAUSE Research Satellite Symposium  (OPTIONAL--IFF < 1 min elapsed)
+
+- accompanying USCOTS 2021
+-   Goal: Build community and identify how CAUSE can better support statistics and data science education research(ers)
+-   62 current and aspiring researchers from North America, Europe, and Brazil (but had 139 registrations!)
+-   Reviewed and revised mission statement for CAUSE research
+-   impetus for the new iniatives based on community input
+
+
+
+## CAUSE Research Initiatives
+
+Lots of movement in the past year after kicking off a substantial reboot in 2021...
+
+-   CAUSE appointed Laura Le and I to join as Assoc Directors for Research
+-   Some information gathering with past leadership & advisory board members
+-   First ever CAUSE Research Satellite Symposium accompanying USCOTS 2021
+-   eCOTS workshop (May 2022) with Iddo Gal (Univ. of Haifa) for pre-tenure faculty doing statistics education research
+-   Ongoing reading group(s) with Megan Mocko (Univ of Florida) and Shu-Min Liao (Amherst College)
+-   Website overhaul--Doug Whitaker (Mount Saint Vincent Univ.) and GRA Susan Lloyd began work this summer
+-   Research mentoring program coming soon
+
 
 
 ## Connect with us
-- Talk to me! (hallway / discord)
-- join our email list (not too many, I promise)
-- visit website
-- twitter
-- slack
-- visit CAUSE Research Satellite Conference @ **USCOTS 2023**
 
+-   Talk to me! (hallway / discord)
+-   join our email list (not too many, I promise)
+-   visit website
+-   twitter
+-   slack
+-   visit CAUSE Research Satellite Conference \@ **USCOTS 2023**

@@ -4,7 +4,7 @@ format: pdf
 editor: source
 ---
 
-## Piloting a new assessment tool for data science education researchers
+## Piloting a new assessment tool for data science education researchers (4 min LT)
 
 - Collaborative project with colleagues at Duke, UMN, UC London
 
@@ -21,28 +21,15 @@ editor: source
 
 ## Method
 
-- statistics and data science education researchers examined syllabi and resources in use by experienced introductory data science instructors 
+- team examined syllabi and resources in use by experienced IDS instructors 
 - drafted and revised an assessment tool 
-    - 48 candidate items aligned with the core knowledge, skills, and abilities
-    - (almost certainly too many for the final assessment)
+    - (almost certainly too many items for the final assessment...)
+    - 48 candidate items aligned with the core knowledge, skills, and abilities--e.g., interpreting data visualizations, algorithmic thinking, basic inference/prediction, model evaluation/interpretation, data prep, and more
 - conducted structured interviews
     - experienced data science instructors with expertise in statistics education, computer science education, and/or educational measurement. 
     - interviews invite both **holistic** feedback (e.g., essential topics for a data science assessment) as well as a **detailed critique** of each item and its contribution
 
 \newpage
-
-## Challenges
-
-- challenge identifying core curriculum for IDS 
-- always a challenge to balance where to invest in depth vs breadth for a first course... particularly where there is not yet a consensus curriculum 
-    - everything can feel important
-    - anecdotally, wider variability & very ambitious course objectives from those less experienced teaching IDS courses
-- seeking insight about best practices for language agnostic assessment of algorithmic thinking (i.e., for data preparation / analysis)
-    - e.g., both Python & R are popular tools among data scientists
-        - we're concerned that parallel assessment forms invites some psychometric issues
-        - what to do about other languages in future?!
-        - pseudo-code 
-
 
 ## Current state of the project
 
@@ -50,3 +37,20 @@ editor: source
 - interested in additional perspective from CS colleagues with experience teaching IDS courses
 - Seeking participants to classroom test
     - assessment can be made available by request to those interested
+
+## Still some challenges
+
+- core curriculum for IDS 
+    - a challenge to balance where to invest in depth vs breadth for a first course... particularly where there is not yet a consensus curriculum 
+    - everything can feel important
+- seeking insight about best practices for language agnostic assessment of algorithmic thinking (i.e., for data preparation / analysis)
+    - e.g., both Python & R are popular tools among data scientists
+    - we're concerned that parallel assessment forms invites some psychometric issues
+    - what to do about other languages in future?!
+    - pseudo-code has thorny issues of it's own
+
+## Connect if you're interested
+
+- We'd love to benefit from additional perspectives on the work
+- Also, if your institution has an undergraduate IDS course (whether you teach it or not), please get in touch with me--we're very much interested in colleagues to share input and/or field test
+
